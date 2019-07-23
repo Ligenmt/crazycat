@@ -1,0 +1,120 @@
+{
+	"groups": [
+		{
+			"keys": "egret_icon_png,description_json,btn_start_png,bg_jpg,gameres_json,stay_json,stay_png",
+			"name": "preload"
+		},
+		{
+			"keys": "gameres_json,victory_png,stay_png,stay_json,weizhu_png,weizhu_json,finish_json,finish_png",
+			"name": "gameres"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/gameres.json",
+			"type": "sheet",
+			"name": "gameres_json",
+			"subkeys": "arron,bg,btn_start,failed,forpc,more,pot1,pot2,replay,shareBTN,shenjingcat,stay,victory,weizhu"
+		},
+		{
+			"url": "assets/images/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/images/btn_start.png",
+			"type": "image",
+			"name": "btn_start_png"
+		},
+		{
+			"url": "assets/images/failed.png",
+			"type": "image",
+			"name": "failed_png"
+		},
+		{
+			"url": "assets/images/arron.png",
+			"type": "image",
+			"name": "arron_png"
+		},
+		{
+			"url": "assets/images/forpc.png",
+			"type": "image",
+			"name": "forpc_png"
+		},
+		{
+			"url": "assets/images/more.png",
+			"type": "image",
+			"name": "more_png"
+		},
+		{
+			"url": "assets/images/pot1.png",
+			"type": "image",
+			"name": "pot1_png"
+		},
+		{
+			"url": "assets/images/pot2.png",
+			"type": "image",
+			"name": "pot2_png"
+		},
+		{
+			"url": "assets/images/replay.png",
+			"type": "image",
+			"name": "replay_png"
+		},
+		{
+			"url": "assets/images/shareBTN.png",
+			"type": "image",
+			"name": "shareBTN_png"
+		},
+		{
+			"url": "assets/images/shenjingcat.png",
+			"type": "image",
+			"name": "shenjingcat_png"
+		},
+		{
+			"url": "assets/images/victory.png",
+			"type": "image",
+			"name": "victory_png"
+		},
+		{
+			"url": "assets/images/stay.json",
+			"type": "json",
+			"name": "stay_json"
+		},
+		{
+			"url": "assets/images/stay.png",
+			"type": "image",
+			"name": "stay_png"
+		},
+		{
+			"url": "assets/images/weizhu.png",
+			"type": "image",
+			"name": "weizhu_png"
+		},
+		{
+			"url": "assets/images/weizhu.json",
+			"type": "json",
+			"name": "weizhu_json"
+		},
+		{
+			"url": "assets/images/finish.json",
+			"type": "json",
+			"name": "finish_json"
+		},
+		{
+			"url": "assets/images/finish.png",
+			"type": "image",
+			"name": "finish_png"
+		}
+	]
+}
